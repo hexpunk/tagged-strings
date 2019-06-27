@@ -1,0 +1,21 @@
+{
+  "name": "@jbutler/tagged-strings",
+  "version": "1.0.0",
+  "description": "Provides a simple function to create and use tagged template strings in ES2015 compliant languages.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "tag",
+    "tagging",
+    "template"
+  ],
+  "author": "Jordan Butler",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.1.6"
+  }
+}
